@@ -1,0 +1,16 @@
+{
+  "name": "fxbridge",
+  "version": "1.0.0",
+  "description": "Testing task",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "web3": "^1.8.0",
+    "bluebird": "^3.7.2",
+    "convert-array-to-csv": "^2.0.0"
+  }  
+}
